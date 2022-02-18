@@ -1,0 +1,8 @@
+{
+  "employeeId": 1,
+  "employeeFirstName": "fn2",
+  "employeeLastName": "ln2",
+  "employeeGender": "male",
+  "employeePhone": "1234567890",
+  "isNewEmployee": 1
+}
